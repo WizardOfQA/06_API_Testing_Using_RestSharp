@@ -1,0 +1,15 @@
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\RestSharp_API_TestFramework.dll
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\RestSharp_API_TestFramework.pdb
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\RestSharp.dll
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\System.ValueTuple.dll
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\System.ValueTuple.xml
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\obj\Debug\RestSharp_API_TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\obj\Debug\RestSharp_API_TestFramework.csproj.CopyComplete
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\obj\Debug\RestSharp_API_TestFramework.dll
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\obj\Debug\RestSharp_API_TestFramework.pdb
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\obj\Debug\RestSharp_API_TestFramework.csprojResolveAssemblyReference.cache
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\RestSharp_API_TestFramework.dll.config
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\EntityFramework.dll
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\EntityFramework.xml
+C:\Users\wizar\source\repos\RestSharp_API_TestFramework\RestSharp_API_TestFramework\bin\Debug\EntityFramework.SqlServer.xml

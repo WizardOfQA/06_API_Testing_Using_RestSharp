@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Products_API_Test", "Products_API_Test\Products_API_Test.csproj", "{4CF9C919-544C-4705-A1B7-6EBF5D3D2D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharp_API_TestFramework", "RestSharp_API_TestFramework\RestSharp_API_TestFramework.csproj", "{19492596-0A5F-45B5-B21D-27A14E0AB2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF9C919-544C-4705-A1B7-6EBF5D3D2D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF9C919-544C-4705-A1B7-6EBF5D3D2D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF9C919-544C-4705-A1B7-6EBF5D3D2D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF9C919-544C-4705-A1B7-6EBF5D3D2D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19492596-0A5F-45B5-B21D-27A14E0AB2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19492596-0A5F-45B5-B21D-27A14E0AB2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19492596-0A5F-45B5-B21D-27A14E0AB2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19492596-0A5F-45B5-B21D-27A14E0AB2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90AE57BB-C09E-42C0-86B9-5BAD830038A3}
+	EndGlobalSection
+EndGlobal
