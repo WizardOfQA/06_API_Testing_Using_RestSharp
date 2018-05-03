@@ -14,8 +14,8 @@ For the database access, I used Entity Framework Database First approach.
 ## Test Cases Covered:
 * GET
 
-Can_Retrieve_All_Students
-Can_Retrieve_Specific_Student
+- Can_Retrieve_All_Students
+- Can_Retrieve_Specific_Student
 
 * PUT
 
