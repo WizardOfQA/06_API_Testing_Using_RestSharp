@@ -12,18 +12,22 @@ For the database access, I used Entity Framework Database First approach.
 4. Run the tests in API_Testing_Using_RestSharp.
 
 ## Test Cases Covered:
-###GET
-*Can_Retrieve_All_Students
-*Can_Retrieve_Specific_Student
+* GET
 
-###PUT
-*Can_Update_Existing_Student_Info
+Can_Retrieve_All_Students
+Can_Retrieve_Specific_Student
 
-###POST
-*Can_Create_A_New_Student
+* PUT
 
-###DELETE
-*Can_Delete_A_Student
+Can_Update_Existing_Student_Info
+
+* POST
+
+Can_Create_A_New_Student
+
+* DELETE
+
+Can_Delete_A_Student
 
 
 
