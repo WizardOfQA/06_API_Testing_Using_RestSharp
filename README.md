@@ -17,17 +17,17 @@ For the database access, I used Entity Framework Database First approach.
 - Can_Retrieve_All_Students
 - Can_Retrieve_Specific_Student
 
-* PUT
+### PUT
 
-Can_Update_Existing_Student_Info
+- Can_Update_Existing_Student_Info
 
-* POST
+### POST
 
-Can_Create_A_New_Student
+- Can_Create_A_New_Student
 
-* DELETE
+### DELETE
 
-Can_Delete_A_Student
+- Can_Delete_A_Student
 
 
 
