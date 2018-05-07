@@ -6,10 +6,11 @@ In this demo, I will use RestSharp to consume Students Web API" demo.
 For the database access, I used Entity Framework Database First approach.
 
 ## How to run it
-1. Download Students api and run it.
-2. Download API_Testing_Using_RestSharp.
-3. Change Connction Strings in App.config files. 
-4. Run the tests in API_Testing_Using_RestSharp.
+1. Download Students api, update your server name in StartUp.cs file.
+2. Run the application. (This will create Students db)
+3. Download API_Testing_Using_RestSharp.
+4. Change Connction Strings in App.config files. 
+5. Run the tests in API_Testing_Using_RestSharp.
 
 ## Test Cases Covered:
 ### GET 
